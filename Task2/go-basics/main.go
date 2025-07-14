@@ -30,6 +30,7 @@ func getFrequency(s string) map[rune]int {
 	return frequency
 }
 func main() {
+	
 	// test the isPalindrome function
 	palindromeTest := "racecar"
 	if isPalindrome(palindromeTest) {
